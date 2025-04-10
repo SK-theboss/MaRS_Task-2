@@ -43,8 +43,10 @@ Steps: -
 
 ## *Resources:*
 
-    - https://images-na.ssl-images-amazon.com/images/I/A1TemgvjKjL.pdf
-    - https://docs.github.com/en/get-started/start-your-journey/hello-world
-    - https://docs.arduino.cc/language-reference/en/functions/communication/serial/available/
+- https://images-na.ssl-images-amazon.com/images/I/A1TemgvjKjL.pdf
+- https://docs.github.com/en/get-started/start-your-journey/hello-world
+- https://docs.arduino.cc/language-reference/en/functions/communication/serial/available/
 
-    .
+Thank You !!!
+    - Junior Marsian 
+.
