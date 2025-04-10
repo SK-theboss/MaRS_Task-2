@@ -13,7 +13,7 @@
     Then I started working on the new task, and everything went smoothly. Within just half an hour, I was able to analyze the requirements, understand the environment, and compile a working code to control the two-wheel drive mechanism using an L293D motor driver. However, as success seemed within reach, I was asked to restart the work using a different module, since the L293D motor driver had been damaged by another contestant.
     I didn’t give up despite the setback. I gave my 100% to the task and quickly adapted to the new hardware. I reworked the setup and successfully compiled the code using the MD10C R3 motor driver, ensuring the two-wheel drive mechanism was fully functional with the updated module.
 
-### Cognitive Process and Scope of the task:  
+### *Cognitive Process and Scope of the task*  
     In a surface level, only direction pins are enough to accomplish this task, keeping the PWM pin values constant for the overall task. But, I imagined a two wheel balance scooter(hoverboard) in my mind. So, I regulated the PWM values accordingly for each and every condition. Example: For a left turn, the left wheel would stop and the right wheel would be HIGH signal and greater PWM.
     This makes my project kind of unique and well-suited for a real time application.
 
