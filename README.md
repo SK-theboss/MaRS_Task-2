@@ -1,5 +1,6 @@
 # MaRS_Task-2
-*Platform:* Arduino Uno 
+*Platform:* Arduino Uno
+
 *Languages Used:* Arduino Simplified C++ 
 
 ## *Overview*
