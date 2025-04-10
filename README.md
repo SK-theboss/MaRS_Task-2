@@ -24,11 +24,11 @@ In a surface level, only direction pins are enough to accomplish this task, keep
 ## *Procedure:*
 
 Pin Selections: -
-    - Direction of motor: Any Digital Pin in Arduino UNO.
+- Direction of motor: Any Digital Pin in Arduino UNO.
     
-    - PWM - pins with ~ (PWM pins).
+- PWM - pins with ~ (PWM pins).
     
-    - Ground pins - common ground with the breadboard.
+- Ground pins - common ground with the breadboard.
 
 character variable - choice
 
