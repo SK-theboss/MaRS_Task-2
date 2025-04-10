@@ -21,5 +21,30 @@ In a surface level, only direction pins are enough to accomplish this task, keep
     Also, to get the input from the user during runtime, firstly I used Keyboard function. Then I realised that, this was not compatible in Arduino Uno. Immediately, I switched to Serial.availabe. This was perfect and made my task easier.
     By this way, I accomplished the desired task.
   
-### Procedure: 
+## *Procedure:*
 
+Pin Selections: -
+    - Direction of motor: Any Digital Pin in Arduino UNO
+    - PWM - pins with ~ (PWM pins).
+    - Ground pins - common ground with the breadboard
+
+character variable - choice
+
+Starting a serial communication in 9600 baud rate.
+
+Steps: -
+
+1. Compile the code as required.
+2. Fix the input and output pins from arduino
+3. Assemble the motors and connect it to the MD10C R3.
+4. Make sure that the polarities of power supply are connected properly.
+5. Check the connectivity of the circuit.
+
+
+## *Resources:*
+
+    - https://images-na.ssl-images-amazon.com/images/I/A1TemgvjKjL.pdf
+    - https://docs.github.com/en/get-started/start-your-journey/hello-world
+    - https://docs.arduino.cc/language-reference/en/functions/communication/serial/available/
+
+    .
