@@ -2,7 +2,6 @@
 *Platform:* Arduino Uno 
 *Languages Used:* Arduino Simplified C++ 
 
----
 
 ## *Overview*
 *Aim:* 
@@ -33,11 +32,7 @@
   -  Problem 1: Obstacle Map & Pathfinding
   -  Problem 3: Behavior Tree Design
   -  Problem 2: [Not attempted]
----
 
-
-
---
 
 ###  *Light Dose*
 
