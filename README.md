@@ -12,55 +12,10 @@
     I didn’t give up despite the setback. I gave my 100% to the task and quickly adapted to the new hardware. I reworked the setup and successfully compiled the code using the MD10C R3 motor driver, ensuring the two-wheel drive mechanism was fully functional with the updated module.
 
 *Cognitive Process and Scope of the task:*  
-    In a surface level, only direction pins are enough to accomplish this task, keeping the PWM pin values constant for the overall task. But, I imagined a two wheel balance scooter(hoverboard) in my mind. So, I regulated the PWM values accordingly for each and every condition. Example: For a left turn, the left wheel would stop and the right wheel would be HIGH signal and greater PWM.
+    In a surface level, only direction pins are enough to accomplish this task, keeping the PWM pin values constant for the overall task. But, I imagined a two wheel balance scooter(hoverboard) in my mind. So, I regulated the PWM values accordingly for each and every condition. Example: For a left turn, the left wheel would stop and the right wheel would receive HIGH signal and greater PWM.
     This makes my project kind of unique and well-suited for a real time application.
     Also, to get the input from the user during runtime, firstly I used Keyboard function. Then I realised that, this was not compatible in Arduino Uno. Immediately, I switched to Serial.availabe. This was perfect and made my task easier.
     By this way, I accomplished the desired task.
   
+### Procedure: 
 
-
-### Project Completion Summary
-
-- Completed *all Light Dose* problems (Bash scripting and terminal-based tasks)
-- Completed *all Medium Dose* problems (Python-based logic, filtering, decoding)
-- Completed *Hard Dose*:
-  -  Problem 1: Obstacle Map & Pathfinding
-  -  Problem 3: Behavior Tree Design
-  -  Problem 2: [Not attempted]
-
-
-###  *Light Dose*
-
-####  Question 1 & Question 2: 
-- I am not very much known to terminal commands in Linux.
-- I just know some basic commands.
-
-  *My Approach:*
-- Gone through some you-tube vedios to get a idea about Linux Commands related to navigation, file handling, and permissions.
-- Googled for unknown commands.
-- I broke out the problem into individual checks and tested each block.
-- Used echo and if-else blocks to validate system behavior step by step.
-  
-  *Script:*
-- [light_1](./light_1st.sh)
-- [light_2](./light_2nd.sh)
-  
- *Screenshot of basic terminal commands done on terminal:*
-- [Screenshot_1](./btc_ss_1.jpg)
-- [Screenshot_2](./btc_ss_2.jpg)
-  
-
-
-
-###  *Medium Dose*
-
-####  Question 1: Marker Navigation
-- I just added 55 units to z co_ordinate to get new frame of reference
-- And wrote a function to calculate distance from origin
-- Got input co_ordinates from user
-
-
- *Script:*
-- [medium-1](./medium_1st.py)
-
-  ---
