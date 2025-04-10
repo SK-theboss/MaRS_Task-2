@@ -4,8 +4,9 @@
 
 ---
 ## *Overview*
+*Aim:* To control a two-wheel drive mechanism using W, A, S, D keys (it has to be able to go forward, reverse, left and right ) 
 
-
+*Cognitive Process*
 
 ---
 
